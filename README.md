@@ -1,6 +1,5 @@
-<div style="align:center">
-  ![image](https://github.com/user-attachments/assets/fc360367-74c7-41de-ad4e-1d0c2b144926)
-</div>
+![image](https://github.com/user-attachments/assets/028ee4eb-7fea-4347-be0f-d0491517c9e8)
+
 
 <p align="center">
   Aspiring Software Developer currently studying ECE at UIUC
