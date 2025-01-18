@@ -1,10 +1,6 @@
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/028ee4eb-7fea-4347-be0f-d0491517c9e8)
-</p>
+![image](https://github.com/user-attachments/assets/028ee4eb-7fea-4347-be0f-d0491517c9e8)
 
-<p align="center">
-  Aspiring Software Developer currently studying ECE at UIUC
-</p>
+Aspiring Software Developer currently studying Computer Engineering @ UIUC
 
 <!--
 **DylanLee2/DylanLee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
