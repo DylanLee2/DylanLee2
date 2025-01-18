@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/028ee4eb-7fea-4347-be0f-d0491517c9e8)
+![image](https://github.com/user-attachments/assets/028ee4eb-7fea-4347-be0f-d0491517c9e8#gh-dark-mode-only)
+![image](https://github.com/user-attachments/assets/94521cfd-6bc4-46b0-a0b5-14677d8feb5e#gh-light-mode-only)
 
 Aspiring Software Developer currently studying Computer Engineering @ UIUC
 
