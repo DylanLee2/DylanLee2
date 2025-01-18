@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/dawsonbotsford" target="_blank">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dawsonbotsford?style=social">
-  </a>
   <br/>
-
   <p align="center">
     <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=blue" />
     <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=orange" />
