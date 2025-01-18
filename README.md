@@ -1,4 +1,5 @@
-![dylan](https://user-ima![ascii-text-art]([https://github.com/user-attachments/assets/fb4210c0-d284-4d76-b9fe-ef3c37d117e1](https://github.com/user-attachments/assets/c6a6c391-d698-45d1-b37e-e31c69c19348))
+![image](https://github.com/user-attachments/assets/cc67fe53-79de-42b5-a1e1-35f28d1c0323)
+
 
 <p align="center">
   Aspiring Software Developer currently studying ECE at UIUC
@@ -6,7 +7,7 @@
 
 <!--
 **DylanLee2/DylanLee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![dylan](https://user-ima![ascii-text-art]([https://github.com/user-attachments/assets/fb4210c0-d284-4d76-b9fe-ef3c37d117e1](https://github.com/user-attachments/assets/c6a6c391-d698-45d1-b37e-e31c69c19348))](https://github.com/user-attachments/assets/c6a6c391-d698-45d1-b37e-e31c69c19348)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
